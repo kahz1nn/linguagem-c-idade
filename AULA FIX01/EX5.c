@@ -11,32 +11,32 @@ Tente apresentar todos os dados no formato de uma tabela, com valores alinhados.
  
 #include <stdio.h>
 
- int main(){
-// DECLARAÇAO DA VARIAVEIS
+int main(){
+   // DECLARAÇAO DA VARIAVEIS
      float vl_montadora = 0,
            vl_final = 0,
            vl_ipi = 0,
            vl_icms = 0,
            vl_lucro = 0;
 
-// entrada
+   // entrada
     printf("Calculos dos Malores na Montadoras \n");
     printf("digite o valor:");
     scanf("%f", &vl_montadora);
 
-//processor
+   //processor
    vl_ipi = vl_montadora * 0.11;
    vl_icms = vl_montadora * 0.17;
    vl_lucro = vl_montadora * 0.15;
    vl_final = vl_ipi + vl_icms + vl_lucro + vl_montadora;
 
 
-// saida
+   // saida
    printf("\n| IPI.........: R$ %10.2f |", vl_ipi);
    printf("\n| ICMS........: R$ %10.2f |", vl_icms);
    printf("\n| Lucro.......: R$ %10.2f |", vl_lucro);
    printf("\n| PREÇO FINAL.: R$ %10.2f |", vl_final);
 
 
-return 0;
- }
+   return 0;
+}
