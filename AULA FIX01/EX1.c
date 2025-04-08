@@ -2,7 +2,7 @@
 nome:.... KAIO GABRIEL DA SILVA RAMPAZO
 turma:.... EC41A-C11
 data:.... 07/04/2025
-Enunciado:.... Faça um programa em Linguagem C que peça o ano de nascimento do usuário e apresente sua provável idade”.
+Enunciado:....FIX01_EX01:  Faça um programa em Linguagem C que peça o ano de nascimento do usuário e apresente sua provável idade”.
 */
 
 #include <stdio.h>

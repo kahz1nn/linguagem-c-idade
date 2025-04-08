@@ -2,7 +2,7 @@
 nome:.... KAIO GABRIEL DA SILVA RAMPAZO
 turma:.... EC41A-C11
 data:.... 08/04/2025
-Enunciado:...Faça um programa em Linguagem C que peça uma temperatura em graus 
+Enunciado:...FIX01_EX03: Faça um programa em Linguagem C que peça uma temperatura em graus 
 célsius e apresente seu respectivo valor em fahrenheit. O cálculo de conversão é: F = (9 * C / 5) + 32
 */
 #include <stdio.h>
