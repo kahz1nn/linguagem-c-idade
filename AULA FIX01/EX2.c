@@ -2,7 +2,8 @@
 nome:.... KAIO GABRIEL DA SILVA RAMPAZO
 turma:.... EC41A-C11
 data:.... 07/04/2025
-Enunciado:....FIX01_EX02: Faça um programa em Linguagem C que peça a idade do usuário e, em seguida, digite a mensagem: “Legal! Você tem *idade* anos!”.
+Enunciado:....FIX01_EX02: Faça um programa em Linguagem C que peça a idade do usuário e, em seguida, 
+digite a mensagem: “Legal! Você tem *idade* anos!”.
 */
 
 #include <stdio.h>
