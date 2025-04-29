@@ -1,0 +1,21 @@
+/*
+nome:.... KAIO GABRIEL DA SILVA RAMPAZO
+turma:.... EC41A-C11
+data:.... 28/04/2025
+Enunciado:....FIX04a_EX02: Faça um programa em Linguagem C que apresente os valores de 10 a 1.
+
+*/
+
+#include <stdio.h>
+
+int main(){
+    
+    int cont = 10;//declaraçao de variaveis
+
+    //ESTRUTURA WHILE
+    while( cont >= 1) {
+        printf("%d -", cont);
+        cont--;
+    }
+    return 0;
+}
